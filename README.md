@@ -25,4 +25,8 @@ Backend - FastAPI, Pandas, Python
 Frontend - Streamlit, RestAPIs via HTTP requests
 
 
+Requirements:
+pip install fastapi uvicorn pandas streamlit python-multipart requests
+
+
 
